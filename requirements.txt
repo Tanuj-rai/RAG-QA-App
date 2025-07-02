@@ -1,0 +1,8 @@
+gradio
+langchain
+langchain-community
+langchain-experimental
+pdfplumber
+faiss-cpu
+sentence-transformers
+langchain-groq
