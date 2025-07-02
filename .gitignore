@@ -1,0 +1,5 @@
+*.faiss
+*.pkl
+temp_uploaded_pdf.pdf
+__pycache__/
+.env
